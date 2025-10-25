@@ -1,9 +1,42 @@
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=700&color=00C896&center=true&vCenter=true&width=750&lines=👨‍💻+Hi%2C+I'm+Dheeraj+D+%7C+Java+Full+Stack+Developer;☕+Crafting+Clean+Code+with+Core+Java+%26+Spring+Boot;🚀+Building+Scalable+APIs+%26+Modern+Web+Apps;🌱+Learning+DevOps+and+Cloud+Deployments;💬+Let’s+Innovate+and+Code+Something+Awesome!" alt="Dheeraj D Typing Animation" /> </p>
 🌟 About Me
 <p> I’m an <strong>Aspiring Java Full Stack Developer</strong> with a deep interest in crafting robust and scalable web applications. My expertise lies in <strong>Core Java, Spring Boot, SQL, HTML, CSS, JavaScript, JDBC-Hibernate, Servlets, and Spring Data JPA</strong>. </p> <p> Through my internship in <strong>Java Full Stack Development</strong>, I gained solid hands-on experience in designing RESTful APIs, managing databases, and building responsive front-end interfaces using ReactJS. I love building solutions that bridge functionality, performance, and user experience. </p> <p> I’m well-versed in the <strong>Software Development Life Cycle (SDLC)</strong>, proficient with tools like <strong>Git/GitHub</strong>, and comfortable with <strong>API testing, CI/CD workflows, and deployment</strong> using DevOps concepts. </p> <p> Currently, I’m looking for opportunities as a <strong>Software Developer</strong> or <strong>Java Full Stack Developer</strong> to apply my skills, contribute to meaningful projects, and grow as a well-rounded engineer. </p>
-<h1 align="center">🛠️ Skills & Technologies</h1> <p align="center"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40"/> <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*8U_1vMA4v6Zb2IATt3X03A.png" alt="Spring Boot" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="40"/> <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="HTML" width="40"/> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS" width="40"/> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Hibernate_logo_a.png" alt="Hibernate" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Apache_Tomcat_logo.svg" alt="Servlets" width="50"/> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="Spring Data JPA" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="40"/> <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="MySQL" width="40"/> <img src="https://cdn-icons-png.flaticon.com/512/919/919847.png" alt="Git" width="40"/> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="40"/> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="Maven" width="40"/> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="Docker" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="Jenkins" width="40"/> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dheerajd&style=flat-square&color=blue" height="25"/> <img src="https://img.shields.io/github/followers/dheerajd?label=Followers&style=flat-square&color=brightgreen" height="25"/> <img src="https://img.shields.io/github/stars/dheerajd?label=Stars&style=flat-square&color=yellow" height="25"/> </p> <table align="center"> <tr> <td><img src="https://github-readme-stats.vercel.app/api?username=dheerajd&show_icons=true&theme=radical" height="200"/></td> <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajd&theme=radical" height="200"/></td> </tr> <tr> <td colspan="2" align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajd&layout=compact&theme=radical" height="200"/> </td> </tr> </table>
-<p align="center"> <!-- Backend --> <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle" height="50" alt="Backend" /> <br> <!-- Frontend --> <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" height="50" alt="Frontend" /> <br> <!-- Database --> <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" height="50" alt="Database" /> <br> <!-- DevOps & Tools --> <img src="https://skillicons.dev/icons?i=docker,jenkins,git,github,postman,vscode,idea,linux" height="50" alt="DevOps & Tools" /> </p>
+<h2 align="center">🧩 Tech Stack — Tools & Technologies</h2>
+
+<p align="center">
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="Spring" />
+  <img src="https://raw.githubusercontent.com/dheeraj-project-assets/spring-boot-logo/main/spring-boot-logo.png" height="50" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="50" alt="Hibernate" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="50" alt="Maven" />
+  <br><br>
+
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="ReactJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap" />
+  <br><br>
+
+  <!-- Database -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" />
+  <br><br>
+
+  <!-- DevOps & Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="50" alt="Jenkins" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" alt="IntelliJ IDEA" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7B731&center=true&vCenter=true&width=500&lines=🧠+Tech+Stack+That+Empowers+My+Code;⚙️+Tools+and+Technologies+I+Love+Using!" alt="Tech Stack Animation" />
 </p>
