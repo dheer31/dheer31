@@ -3,11 +3,13 @@
 <p> I’m an <strong>Aspiring Java Full Stack Developer</strong> with a deep interest in crafting robust and scalable web applications. My expertise lies in <strong>Core Java, Spring Boot, SQL, HTML, CSS, JavaScript, JDBC-Hibernate, Servlets, and Spring Data JPA</strong>. </p> <p> Through my internship in <strong>Java Full Stack Development</strong>, I gained solid hands-on experience in designing RESTful APIs, managing databases, and building responsive front-end interfaces using ReactJS. I love building solutions that bridge functionality, performance, and user experience. </p> <p> I’m well-versed in the <strong>Software Development Life Cycle (SDLC)</strong>, proficient with tools like <strong>Git/GitHub</strong>, and comfortable with <strong>API testing, CI/CD workflows, and deployment</strong> using DevOps concepts. </p> <p> Currently, I’m looking for opportunities as a <strong>Software Developer</strong> or <strong>Java Full Stack Developer</strong> to apply my skills, contribute to meaningful projects, and grow as a well-rounded engineer. </p>
 <h2 align="center">🧩 Tech Stack — Tools & Technologies</h2>
 
+<h2 align="center">🧩 Tech Stack — Tools & Technologies</h2>
+
 <p align="center">
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="Spring" />
-  <img src="https://raw.githubusercontent.com/dheeraj-project-assets/spring-boot-logo/main/spring-boot-logo.png" height="50" alt="Spring Boot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="50" alt="Spring" />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" height="50" alt="Spring Boot" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="50" alt="Hibernate" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="50" alt="Maven" />
   <br><br>
@@ -31,9 +33,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="50" alt="Jenkins" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="Postman" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50" alt="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="50" alt="Eclipse" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" alt="IntelliJ IDEA" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" />
 </p>
 
