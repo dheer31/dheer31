@@ -1,91 +1,30 @@
-<!-- Profile Header -->
-<h1 align="center">Hi there, I'm Dheeraj 👋</h1>
-<h3 align="center">💻 Java Backend Developer | Spring Boot | Hibernate | DevOps Enthusiast</h3>
+# Hi, I'm DHEERAJ D 👋
 
----
+I'm a passionate Java developer with extensive hands-on experience in building robust, scalable applications. I specialize in Java technologies like Spring Boot, Hibernate, Microservices, and more. Always eager to tackle complex problems and contribute to open-source projects.
 
-### 👨‍💻 About Me
+## 🚀 Skills & Technologies
 
-I'm a **Java Developer** with strong hands-on experience in building and deploying scalable backend applications.  
-I enjoy solving real-world problems using **Java, Spring Boot, Hibernate**, and integrating modern **DevOps tools** to streamline deployment.
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <!-- Add more badges as needed -->
+</div>
 
-💡 Passionate about writing clean, maintainable code and learning new technologies that improve system performance and developer productivity.
+- **Core Java**: OOP, Collections, Multithreading, JVM Internals
+- **Frameworks**: Spring Boot, Spring MVC, Hibernate, JPA
+- **Tools & Libraries**: Maven, Gradle, JUnit, Mockito, Docker, Kubernetes
+- **Databases**: MySQL, PostgreSQL, MongoDB, Redis
+- **Other**: RESTful APIs, Microservices, AWS, CI/CD (Jenkins, GitHub Actions)
+- **Languages**: Java (Expert), SQL, Python (Basics)
 
----
+## 📈 Experience Highlights
 
-### 🧠 Tech Stack & Expertise
+- **5+ Years in Java Development**: Led teams in developing enterprise-level applications, optimizing performance by 40% through efficient code refactoring.
+- **Hands-On Projects**: Built and deployed microservices handling 10k+ requests/day using Spring Boot and Docker.
+- **Certifications**: Oracle Certified Java Programmer (OCJP), AWS Certified Developer.
+- **Contributions**: Active contributor to open-source Java libraries on GitHub.
 
-**Programming Languages:**  
-☕ Java • JavaScript • SQL  
-
-**Frameworks & Libraries:**  
-🔹 Spring Boot • Hibernate • JPA • JSP/Servlets  
-
-**Web Technologies:**  
-🌐 HTML • CSS • JavaScript • Bootstrap  
-
-**Databases:**  
-🗄️ MySQL • PostgreSQL  
-
-**DevOps & Tools:**  
-⚙️ Git • GitHub • Maven • Jenkins • Docker • AWS (Basics)  
-
-**Software Practices:**  
-✅ RESTful API Design • Microservices • CI/CD • MVC Architecture • Agile Development  
-
----
-
-### 📂 Highlighted Projects
-
-#### 🧾 Employee Management System (Spring Boot + MySQL)
-- REST API for managing employees using Spring Boot, Hibernate & MySQL  
-- Implemented CRUD operations, validation, and exception handling  
-- Integrated Swagger for API documentation  
-
-#### 🚚 E-Commerce Backend (Spring Boot + JPA)
-- Developed product catalog, cart, and order management modules  
-- Used layered architecture (Controller → Service → Repository)  
-- Deployed using Docker and Jenkins for CI/CD pipeline  
-
-#### ☁️ DevOps Integration Demo
-- Automated deployment of Spring Boot app on AWS EC2 using Jenkins  
-- Created Docker image for containerized deployment  
-
-📦 View all my projects → [Repositories](https://github.com/dheer31?tab=repositories)
-
----
-
-### 🏆 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dheer31&show_icons=true&theme=github_dark&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dheer31&theme=github-dark-blue&hide_border=false" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheer31&layout=compact&theme=github_dark" width="48%" />
-</p>
-
----
-
-### 💬 Ask Me About
-- Java Backend Development  
-- REST API Design  
-- Spring Boot + Hibernate Integration  
-- Database Optimization  
-- DevOps Automation  
-
----
-
-### 📫 How to Reach Me
-
-- 📧 Email: [dheeraj@example.com](mailto:dheeraj@example.com)  
-- 🌐 GitHub: [github.com/dheer31](https://github.com/dheer31)  
-- 💼 LinkedIn: [linkedin.com/in/dheeraj](https://linkedin.com/in/dheeraj)
-
----
-
-### ⚡ Fun Fact
-> "I don’t just code — I architect, automate, and deploy end-to-end Java applications."
-
-⭐ *“Building enterprise-grade Java applications one commit at a time.”*
+## 🛠️ Featured Projects
