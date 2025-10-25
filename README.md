@@ -1,4 +1,4 @@
-# Hi, I'm DHEERAJ D 👋
+# Hi, I'm Dheeraj D 👋
 
 I'm an aspiring Java developer passionate about building efficient, scalable applications. Currently learning and honing my skills in Java technologies like Spring Boot, Hibernate, and Microservices. Excited to tackle challenges, contribute to open-source, and grow in the world of software development!
 
@@ -15,10 +15,10 @@ I'm an aspiring Java developer passionate about building efficient, scalable app
 
 - **Core Java**: Basics of OOP, Collections, Multithreading, JVM Internals (Learning in Progress)
 - **Frameworks**: Spring Boot, Spring MVC, Hibernate, JPA
-- **Tools & Libraries**: Maven, Gradle, JUnit, Mockito, Docker, Kubernetes,Postman,Swagger
-- **Databases**: MySQL, OracleDataBase,  Redis
+- **Tools & Libraries**: Maven, Gradle, JUnit, Mockito, Docker, Kubernetes
+- **Databases**: MySQL, PostgreSQL, MongoDB, Redis
 - **Other**: RESTful APIs, Microservices, AWS, CI/CD (Jenkins, GitHub Actions)
-- **Languages**: Java (Growing Expertise), SQL,  
+- **Languages**: Java (Growing Expertise), SQL, Python (Basics)
 
 ## 📈 Learning Journey & Highlights
 
@@ -27,6 +27,7 @@ I'm an aspiring Java developer passionate about building efficient, scalable app
 - **Certifications in Progress**: Aiming for Oracle Certified Java Programmer (OCJP) and AWS Certified Developer.
 - **Contributions**: Eager to start contributing to open-source Java projects on GitHub.
 
-## 🛠️ Featured Projects
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak" /> </div>
 
 <div align="center"> <a href="https://linkedin.com/in/dheeraj-d-29a00717b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a> </div>
