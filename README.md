@@ -19,10 +19,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap" />
   <br><br>
 
-  <!-- Database -->
+
+<!-- Database -->
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" />
   <img src="https://1000logos.net/wp-content/uploads/2021/04/Oracle-logo.png" height="50" alt="Oracle Database" />
+</p>
 
   <br><br>
 
