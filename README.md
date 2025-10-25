@@ -16,7 +16,10 @@
 </p>
 
 <p align="center">
-  Hi there! I'm <strong>Dheeraj D</strong>, an <strong>Aspiring Java Full Stack Developer</strong> passionate about building robust, scalable web applications. With skills in <strong>Java, Spring Boot, SQL, ReactJS, and DevOps</strong>, I specialize in designing <strong>RESTful APIs</strong> and creating responsive, user-friendly interfaces. Proficient in <strong>SDLC, Git/GitHub, API testing, and deployment workflows</strong>, I'm always eager to contribute to impactful projects and grow as a full-stack engineer. Let's code something awesome together! 🚀
+  Hi there! I'm <strong>Dheeraj D</strong>, an <strong>Aspiring Java Full Stack Developer</strong> passionate about building robust, scalable web applications. With skills in <strong>Java, Spring Boot, SQL, ReactJS, and DevOps</strong>, I specialize in designing <strong>RESTful APIs</strong> and creating responsive, user-friendly interfaces. Proficient in <strong>SDLC, Git/GitHub, API testing, and deployment workflows</strong>, I'm always eager to contribute to impactful projects and grow as a full-stack engineer. Let's code something awesome together! 🚀  
+</p>
+<p align="right">
+  <a href="https://www.linkedin.com/in/dheeraj-d-29a00717b/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="sakit333" height="30" width="30" /></a>
 </p>
 
 ---
