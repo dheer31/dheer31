@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm DHEERAJ D 👋
 
 I'm an aspiring Java developer passionate about building efficient, scalable applications. Currently learning and honing my skills in Java technologies like Spring Boot, Hibernate, and Microservices. Excited to tackle challenges, contribute to open-source, and grow in the world of software development!
 
