@@ -3,7 +3,6 @@
 <p> I’m an <strong>Aspiring Java Full Stack Developer</strong> with a deep interest in crafting robust and scalable web applications. My expertise lies in <strong>Core Java, Spring Boot, SQL, HTML, CSS, JavaScript, JDBC-Hibernate, Servlets, and Spring Data JPA</strong>. </p> <p> Through my internship in <strong>Java Full Stack Development</strong>, I gained solid hands-on experience in designing RESTful APIs, managing databases, and building responsive front-end interfaces using ReactJS. I love building solutions that bridge functionality, performance, and user experience. </p> <p> I’m well-versed in the <strong>Software Development Life Cycle (SDLC)</strong>, proficient with tools like <strong>Git/GitHub</strong>, and comfortable with <strong>API testing, CI/CD workflows, and deployment</strong> using DevOps concepts. </p> <p> Currently, I’m looking for opportunities as a <strong>Software Developer</strong> or <strong>Java Full Stack Developer</strong> to apply my skills, contribute to meaningful projects, and grow as a well-rounded engineer. </p>
 <h2 align="center">🧩 Tech Stack — Tools & Technologies</h2>
 
-<h2 align="center">🧩 Tech Stack — Tools & Technologies</h2>
 
 <p align="center">
   <!-- Backend -->
@@ -40,6 +39,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7B731&center=true&vCenter=true&width=500&lines=🧠+Tech+Stack+That+Empowers+My+Code;⚙️+Tools+and+Technologies+I+Love+Using!" alt="Tech Stack Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF4C60&center=true&vCenter=true&width=600&lines=🧠+Technologies+That+Fuel+My+Development;☕+Java+%7C+Spring+Boot+%7C+ReactJS+%7C+DevOps!" alt="Tech Stack Animation" />
 </p>
 
