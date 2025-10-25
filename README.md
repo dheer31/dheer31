@@ -15,10 +15,10 @@ I'm an aspiring Java developer passionate about building efficient, scalable app
 
 - **Core Java**: Basics of OOP, Collections, Multithreading, JVM Internals (Learning in Progress)
 - **Frameworks**: Spring Boot, Spring MVC, Hibernate, JPA
-- **Tools & Libraries**: Maven, Gradle, JUnit, Mockito, Docker, Kubernetes
-- **Databases**: MySQL, PostgreSQL, MongoDB, Redis
+- **Tools & Libraries**: Maven, Gradle, JUnit, Mockito, Docker, Kubernetes,Postman,Swagger
+- **Databases**: MySQL, OracleDataBase,  Redis
 - **Other**: RESTful APIs, Microservices, AWS, CI/CD (Jenkins, GitHub Actions)
-- **Languages**: Java (Growing Expertise), SQL, Python (Basics)
+- **Languages**: Java (Growing Expertise), SQL,  
 
 ## 📈 Learning Journey & Highlights
 
