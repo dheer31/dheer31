@@ -1,8 +1,6 @@
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=700&color=00C896&center=true&vCenter=true&width=750&lines=👨‍💻+Hi%2C+I'm+Dheeraj+D+%7C+Java+Full+Stack+Developer;☕+Crafting+Clean+Code+with+Core+Java+%26+Spring+Boot;🚀+Building+Scalable+APIs+%26+Modern+Web+Apps;🌱+Learning+DevOps+and+Cloud+Deployments;💬+Let’s+Innovate+and+Code+Something+Awesome!" alt="Dheeraj D Typing Animation" /> </p>
 🌟 About Me
-<p> I’m an <strong>Aspiring Java Full Stack Developer</strong> with a deep interest in crafting robust and scalable web applications. My expertise lies in <strong>Core Java, Spring Boot, SQL, HTML, CSS, JavaScript, JDBC-Hibernate, Servlets, and Spring Data JPA</strong>. </p> <p> Through my internship in <strong>Java Full Stack Development</strong>, I gained solid hands-on experience in designing RESTful APIs, managing databases, and building responsive front-end interfaces using ReactJS. I love building solutions that bridge functionality, performance, and user experience. </p> <p> I’m well-versed in the <strong>Software Development Life Cycle (SDLC)</strong>, proficient with tools like <strong>Git/GitHub</strong>, and comfortable with <strong>API testing, CI/CD workflows, and deployment</strong> using DevOps concepts. </p> <p> Currently, I’m looking for opportunities as a <strong>Software Developer</strong> or <strong>Java Full Stack Developer</strong> to apply my skills, contribute to meaningful projects, and grow as a well-rounded engineer. </p>
-<h2 align="center">🧩 Tech Stack — Tools & Technologies</h2>
-
+<p align="center"> I’m <strong>Dheeraj D</strong>, an <strong>Aspiring Java Full Stack Developer</strong> passionate about building robust, scalable web applications. Skilled in <strong>Java, Spring Boot, SQL, ReactJS, and DevOps</strong>, I have hands-on experience designing <strong>RESTful APIs</strong> and creating responsive, user-friendly interfaces. Proficient with <strong>SDLC, Git/GitHub, API testing, and deployment workflows</strong>, I’m eager to contribute to impactful projects and grow as a full-stack engineer. </p>
 
 <p align="center">
   <!-- Backend -->
@@ -24,7 +22,8 @@
   <!-- Database -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" />
+  <img src="https://1000logos.net/wp-content/uploads/2021/04/Oracle-logo.png" height="50" alt="Oracle Database" />
+
   <br><br>
 
   <!-- DevOps & Tools -->
