@@ -1,54 +1,5 @@
-# Hey there, I'm Dheeraj D! 🚀
-
-Welcome to my corner of GitHub! I'm an aspiring Java Developer who's passionate about coding, learning, and building cool stuff. My toolkit includes Core Java, Spring Boot, ReactJS, and more—I'm all about turning ideas into working apps.
-
-## A Bit About Me
-I'm diving deep into Java Full Stack Development, with hands-on experience from my internship where I built RESTful APIs, handled databases, and created responsive front-ends. I love solving problems with code and am always up for a challenge.
-
-Tech Stack I'm Rocking: Java | Spring Boot | ReactJS | HTML | CSS | JavaScript | MySQL | REST API | Git | Maven | Hibernate | DevOps Basics.
-
-I'm familiar with the full SDLC, version control, and deployment tools. Right now, I'm hunting for roles as a Software Developer or Java Full Stack Developer to keep growing and contributing.
-
-Fun Fact: I once debugged a bug that took 5 hours—turns out it was a missing semicolon! 😅
-
-## My Skills Toolbox 🛠️
-Here's what I work with—icons for quick visual fun:
-
-- **Languages**: Java (my go-to), SQL, JavaScript
-- **Frameworks**: Spring Boot, Hibernate, Spring Data JPA
-- **Front-End**: ReactJS, HTML, CSS
-- **Databases**: MySQL
-- **Tools**: Git, GitHub, Maven, Docker, Jenkins
-- **Other**: REST APIs, Servlets, DevOps
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="ReactJS" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-  <!-- Add or swap icons as you like -->
-</p>
-
-## GitHub Insights 📊
-Let's see the numbers—my GitHub journey in stats!
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=merko" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=merko" alt="GitHub Streak" width="400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=merko" alt="Top Languages" width="400" />
-</p>
-
-## Let's Connect! 🌐
-- **LinkedIn**: [linkedin.com/in/dheeraj-d-29a00717b](https://linkedin.com/in/dheeraj-d-29a00717b)
-- **Email**: your.email@example.com
-- **Portfolio**: [Your Portfolio Link](link) (if you have one)
-
-Feel free to drop a message—I'm always open to chats about code, projects, or opportunities!
-
----
-
-*Built with ❤️ by Dheeraj D | Always learning, always coding.*
+<h1 align="center">👋 Hey there, I'm <span style="color:#FF4C60;">Dheeraj D</span></h1> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF4C60&center=true&vCenter=true&width=600&lines=☕+Java+Full+Stack+Developer+in+Making;🔧+Spring+Boot+%26+API+Developer;🌐+Frontend+with+ReactJS;🚀+Passionate+Tech+Explorer" alt="Typing SVG" /> </p>
+🌟 About Me
+<p> I’m an <strong>Aspiring Java Full Stack Developer</strong> with a deep interest in crafting robust and scalable web applications. My expertise lies in <strong>Core Java, Spring Boot, SQL, HTML, CSS, JavaScript, JDBC-Hibernate, Servlets, and Spring Data JPA</strong>. </p> <p> Through my internship in <strong>Java Full Stack Development</strong>, I gained solid hands-on experience in designing RESTful APIs, managing databases, and building responsive front-end interfaces using ReactJS. I love building solutions that bridge functionality, performance, and user experience. </p> <p> I’m well-versed in the <strong>Software Development Life Cycle (SDLC)</strong>, proficient with tools like <strong>Git/GitHub</strong>, and comfortable with <strong>API testing, CI/CD workflows, and deployment</strong> using DevOps concepts. </p> <p> Currently, I’m looking for opportunities as a <strong>Software Developer</strong> or <strong>Java Full Stack Developer</strong> to apply my skills, contribute to meaningful projects, and grow as a well-rounded engineer. </p>
+<h1 align="center">🛠️ Skills & Technologies</h1> <p align="center"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40"/> <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*8U_1vMA4v6Zb2IATt3X03A.png" alt="Spring Boot" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="40"/> <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="HTML" width="40"/> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS" width="40"/> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Hibernate_logo_a.png" alt="Hibernate" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Apache_Tomcat_logo.svg" alt="Servlets" width="50"/> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="Spring Data JPA" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="40"/> <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="MySQL" width="40"/> <img src="https://cdn-icons-png.flaticon.com/512/919/919847.png" alt="Git" width="40"/> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="40"/> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="Maven" width="40"/> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="Docker" width="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="Jenkins" width="40"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dheerajd&style=flat-square&color=blue" height="25"/> <img src="https://img.shields.io/github/followers/dheerajd?label=Followers&style=flat-square&color=brightgreen" height="25"/> <img src="https://img.shields.io/github/stars/dheerajd?label=Stars&style=flat-square&color=yellow" height="25"/> </p> <table align="center"> <tr> <td><img src="https://github-readme-stats.vercel.app/api?username=dheerajd&show_icons=true&theme=radical" height="200"/></td> <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajd&theme=radical" height="200"/></td> </tr> <tr> <td colspan="2" align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajd&layout=compact&theme=radical" height="200"/> </td> </tr> </table>
