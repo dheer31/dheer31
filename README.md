@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&width=800&lines=👨‍💻+Hi%2C+I'm+Dheeraj+D+%7C+Java+Full+Stack+Developer;☕+Crafting+Clean+Code+with+Core+Java+%26+Spring+Boot;🚀+Building+Scalable+APIs+%26+Modern+Web+Apps;🌱+Learning+DevOps+and+Cloud+Deployments;💬+Let’s+Innovate+and+Code+Something+Awesome!" alt="Dheeraj D Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1100&center=true&vCenter=true&width=850&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hi%2C+I'm+Dheeraj+D+%7C+Java+Full+Stack+Developer;%E2%98%95+Crafting+Clean+Code+with+Core+Java+%26+Spring%20Boot;%F0%9F%9A%80+Building+Scalable+APIs+%26+Modern+Web+Apps;%F0%9F%8C%B1+Learning+DevOps+and+Cloud+Deployments;%F0%9F%92%AC+Let's+Innovate+and+Code+Something+Awesome!&colors=00C896,00BFFF,FF69B4,00FA9A,FFD700" alt="Dheeraj D Typing Animation" />
 </h1>
 
 <p align="center">
