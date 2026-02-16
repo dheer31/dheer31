@@ -52,7 +52,7 @@
 ### Databases
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="MySQL" title="MySQL" />
-  <img src="https://1000logos.net/wp-content/uploads/2021/04/Oracle-logo.png" height="60" alt="Oracle Database" title="Oracle Database" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60" alt="Oracle Database" title="Oracle Database" />
 </p>
 
 ### DevOps & Tools
@@ -69,6 +69,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="60" alt="Tomcat" title="Tomcat" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="60" alt="Kubernetes" title="Kubernetes" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="60" alt="terraform" title="terraform" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="60" alt="terraform" title="Ansible" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" alt="amazonwebservices" title="amazonwebservices/>
 </p>
 
