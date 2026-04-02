@@ -12,7 +12,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Aspiring%20Full%20Stack%20Developer-brightgreen?style=for-the-badge&logo=github" alt="Status Badge" />
+  
   <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20Karnataka%2C%20India-blue?style=for-the-badge&logo=mapbox" alt="Location Badge" />
+  
+  <img src="https://komarev.com/ghpvc/?username=dheer31&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -78,14 +81,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dheer31&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="170" />
+  
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dheer31&layout=compact&theme=radical&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=dheer31&theme=radical&hide_border=true" height="170" />
 </p>
-
 ---
 
 ## 🚀 Projects
