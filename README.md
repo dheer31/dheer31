@@ -90,7 +90,3 @@
   <img src="https://streak-stats.demolab.com?user=dheer31&theme=radical&hide_border=true" height="170" />
 </p>
 ---
-
-## 🚀 Projects
-
-Here are some of my featured projects that showcase my skills in full-stack development:
