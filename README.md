@@ -79,6 +79,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" alt="AWS" title="AWS" />
   <img src="https://raw.githubusercontent.com/dheer31/dheer31/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </p>
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" /> </p>
+
 
 ---
