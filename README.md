@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1100&center=true&vCenter=true&width=850&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hi%2C+I'm+Dheeraj+D+%7C+Java+Full+Stack+Developer;%E2%98%95+Crafting+Clean+Code+with+Core+Java+%26+Spring%20Boot;%F0%9F%9A%80+Building+Scalable+APIs+%26+Modern+Web+Apps;%F0%9F%8C%B1+Learning+DevOps+and+Cloud+Deployments;%F0%9F%92%AC+Let's+Innovate+and+Code+Something+Awesome!&colors=00C896,00BFFF,FF69B4,00FA9A,FFD700" alt="Dheeraj D Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1100&center=true&vCenter=true&width=1000&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hi%2C+I'm+Dheeraj+D+%7C+Java+%26+Python+Dev;%E2%98%95+Crafting+Clean+Code+with+Java%2C+Python+%26+Spring+Boot;%F0%9F%9A%80+Building+Scalable+APIs+%26+Modern+Web+Apps;%F0%9F%8C%B1+DevOps%2C+Cloud+%26+LLM%2FAI+Deployments;%F0%9F%92%AC+Let's+Innovate+and+Code+Something+Awesome!&colors=00C896,00BFFF,FF69B4,00FA9A,FFD700" alt="Dheeraj D Typing Animation" />
 </h1>
 
 <p align="center">
@@ -11,7 +11,7 @@
 ## 🌟 About Me
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Aspiring%20Full%20Stack%20Developer-brightgreen?style=for-the-badge&logo=github" alt="Status Badge" />
+  <img src="https://img.shields.io/badge/Status-Backend%20%26%20DevOps%20Engineer-brightgreen?style=for-the-badge&logo=github" alt="Status Badge" />
   
   <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20Karnataka%2C%20India-blue?style=for-the-badge&logo=mapbox" alt="Location Badge" />
   
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
- Hi there! I'm <strong>Dheeraj D</strong>, a <strong>Backend & DevOps Engineer</strong> with hands-on experience in building, deploying, and maintaining scalable, high-performance web applications. Skilled in <strong>Java, Spring Boot, SQL, Redis, ReactJS, Docker, Kubernetes, Jenkins, AWS, Git/GitHub, and Linux</strong>, I specialize in designing secure <strong>RESTful APIs</strong>, developing robust backend systems, and implementing modern <strong>CI/CD pipelines</strong> with cloud-native deployment practices. Proficient in <strong>Microservices, SDLC, System Design, API Testing, Containerization, Infrastructure Automation, and Deployment Workflows</strong>, I'm passionate about delivering reliable, scalable solutions while continuously improving application performance and development processes. Let's build something amazing together! 🚀
+ I'm <strong>Dheeraj D</strong>, a <strong>Backend & DevOps Engineer</strong> specializing in <strong>Java, Spring Boot, and Python</strong>, with experience designing secure <strong>RESTful APIs</strong>, building scalable microservices, and automating deployments across containerized, cloud-native environments. My toolkit spans <strong>Docker, Kubernetes, Jenkins, Terraform, Ansible, and AWS</strong> for CI/CD and infrastructure automation, alongside <strong>FastAPI and LLM/Ollama-based tooling</strong> for automation and AI-assisted workflows. I'm focused on writing clean, maintainable code and building systems that are reliable, observable, and easy to operate at scale.
 </p>
 
 ---
@@ -27,16 +27,25 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF4C60&center=true&vCenter=true&width=600&lines=🧠+Technologies+That+Fuel+My+Development;☕+Java+%7C+Spring+Boot+%7C+ReactJS+%7C+DevOps!" alt="Tech Stack Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF4C60&center=true&vCenter=true&width=600&lines=🧠+Technologies+That+Fuel+My+Development;☕+Java+%7C+Python+%7C+Spring+Boot+%7C+FastAPI+%7C+DevOps!" alt="Tech Stack Animation" />
 </p>
 
 ### Backend & Frameworks
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="Java" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="60" alt="Spring" title="Spring" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" height="60" alt="Spring Boot" title="Spring Boot" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="60" alt="Hibernate" title="Hibernate" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="60" alt="Maven" title="Maven" />
+</p>
+
+### AI / LLM & Python Tooling
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python" title="Python" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="60" alt="FastAPI" title="FastAPI" />
+  <img src="https://cdn.simpleicons.org/ollama/000000" height="60" alt="Ollama" title="Ollama" />
+  <img src="https://img.shields.io/badge/LLM-Large%20Language%20Models-412991?style=for-the-badge&logo=openai&logoColor=white" height="40" alt="LLM" title="LLM / Generative AI" />
 </p>
 
 ### Frontend & UI
@@ -69,21 +78,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="60" alt="Tomcat" title="Tomcat" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="60" alt="Kubernetes" title="Kubernetes" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="60" alt="terraform" title="terraform" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="60" alt="terraform" title="Ansible" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" alt="amazonwebservices" title="amazonwebservices/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="60" alt="Ansible" title="Ansible" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" alt="AWS" title="AWS" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dheer31&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-  
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dheer31&layout=compact&theme=radical&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dheer31&theme=radical&hide_border=true" height="170" />
-</p>
 ---
