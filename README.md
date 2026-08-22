@@ -59,10 +59,7 @@
 </p>
 
 ### Databases
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="MySQL" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60" alt="Oracle Database" title="Oracle Database" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" alt="Oracle Database" title="Oracle Database" /> <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white" height="28" alt="Amazon RDS" title="Amazon RDS" /> <img src="https://img.shields.io/badge/Vector%20DB-Similarity%20Search-8A2BE2?style=for-the-badge" height="28" alt="Vector Database" title="Vector Database" /> </p>
 
 ### DevOps & Tools
 <p align="center">
@@ -82,5 +79,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" alt="AWS" title="AWS" />
   <img src="https://raw.githubusercontent.com/dheer31/dheer31/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </p>
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" /> </p>
 
 ---
